@@ -72,8 +72,8 @@ public class KillTarget : MonoBehaviour
     }
     void SetRandomPosition()
     {
-        float x = Random.Range(-5.0f, 5.0f);
-        float z = Random.Range(-5.0f, 5.0f);
+        float x = Random.Range(-50.0f, 50.0f);
+        float z = Random.Range(-50.0f, 50.0f);
         target.transform.position = new Vector3(x, 0.0f, z);
     }
 }
