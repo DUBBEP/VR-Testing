@@ -2,6 +2,12 @@ using UnityEngine;
 
 public class JengaBlock : MonoBehaviour
 {
+    private AudioSource audio;
+
+    private void Start()
+    {
+        audio = GetComponent<AudioSource>();
+    }
 
     private void OnCollisionEnter(Collision collision)
     {
@@ -11,6 +17,7 @@ public class JengaBlock : MonoBehaviour
 
             GetComponent<Rigidbody>().AddForce(randomDir * 1000, ForceMode.Impulse);
             GetComponent<Rigidbody>().AddExplosionForce(10000, transform.position, 1.5f);
+            audio.Play();
         }
     }
 }
