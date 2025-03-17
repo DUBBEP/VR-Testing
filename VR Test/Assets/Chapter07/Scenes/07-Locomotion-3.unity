@@ -559,7 +559,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 174735150}
-  rigRoot: {fileID: 0}
+  rigRoot: {fileID: 174735149}
   velocity: 2
   rotationSpeed: 100
 --- !u!114 &174735152
