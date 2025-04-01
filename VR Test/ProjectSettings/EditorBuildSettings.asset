@@ -6,14 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Prod5 Scene.unity
+    guid: 277334ce67811f04fa286e3f7361d1e7
+  - enabled: 1
     path: Assets/Chapter07/Scenes/07-Locomotion-4.unity
     guid: b27bdcfab2facfd47ba3eaa7634661b5
-  - enabled: 1
-    path: Assets/Chapter07/Scenes/07-Locomotion-2.unity
-    guid: 1035243d1a0c3e348949fba14f0b7dd8
-  - enabled: 1
-    path: Assets/Chapter07/Scenes/Starting Scenes/Scene07-04-Teleport.unity
-    guid: 63e25c1d97e11904fa279ed7a1095c0a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7a8d898c98087a241a056db0caa69841, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d1d1b1d7e705c9c4c86a2121bd8977a5, type: 2}
