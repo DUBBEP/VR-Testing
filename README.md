@@ -15,3 +15,7 @@ Hand Controls Production: https://youtu.be/1U6vi477yYs
 UI Production: https://youtu.be/_1q8xf8CaLk
 
 Movement Test: https://youtu.be/ZhqNFx_LFxs
+
+Movement Production: https://youtu.be/ECs0X54p6I0
+
+Aesthetics Test: https://youtu.be/vuBfxwAcz8U
