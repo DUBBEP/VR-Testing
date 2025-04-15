@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &8659960964002351215
+--- !u!1 &5772378077965632197
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,12 +8,12 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3723219160624932494}
-  - component: {fileID: 3150915107421251312}
-  - component: {fileID: 6973221772208068737}
-  - component: {fileID: 7591970125531481511}
-  - component: {fileID: 2542118744011997246}
-  - component: {fileID: 6963652829503946580}
+  - component: {fileID: 7770054616730618954}
+  - component: {fileID: 3445740649470174984}
+  - component: {fileID: 787576604746677044}
+  - component: {fileID: 7921892567507906176}
+  - component: {fileID: 670187164711304554}
+  - component: {fileID: 72714211321811518}
   m_Layer: 0
   m_Name: Render Controller
   m_TagString: Untagged
@@ -21,13 +21,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3723219160624932494
+--- !u!4 &7770054616730618954
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8659960964002351215}
+  m_GameObject: {fileID: 5772378077965632197}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -36,13 +36,13 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &3150915107421251312
+--- !u!114 &3445740649470174984
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8659960964002351215}
+  m_GameObject: {fileID: 5772378077965632197}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 19c1cf9a8d7c65846ab8d4f68a764dbd, type: 3}
@@ -52,13 +52,13 @@ MonoBehaviour:
   skyboxIntensitySlider: {fileID: 0}
   skyboxIntensityText: {fileID: 0}
   enableFog: {fileID: 0}
---- !u!114 &6973221772208068737
+--- !u!114 &787576604746677044
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8659960964002351215}
+  m_GameObject: {fileID: 5772378077965632197}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 34a60c6a5b2f93b488b31a09dbcaf9cb, type: 3}
@@ -76,13 +76,13 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
---- !u!114 &7591970125531481511
+--- !u!114 &7921892567507906176
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8659960964002351215}
+  m_GameObject: {fileID: 5772378077965632197}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a3996fd923d5c7049ad853a44c7e9bb2, type: 3}
@@ -95,13 +95,13 @@ MonoBehaviour:
   directionalLight: {fileID: 0}
   spotLight: {fileID: 0}
   spotBulb: {fileID: 0}
---- !u!114 &2542118744011997246
+--- !u!114 &670187164711304554
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8659960964002351215}
+  m_GameObject: {fileID: 5772378077965632197}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 46fee522d6fb36c4c90ef7a3990b52eb, type: 3}
@@ -111,13 +111,13 @@ MonoBehaviour:
   reflectionProbesToggle: {fileID: 0}
   lightProbes: {fileID: 0}
   reflectionProbes: {fileID: 0}
---- !u!114 &6963652829503946580
+--- !u!114 &72714211321811518
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8659960964002351215}
+  m_GameObject: {fileID: 5772378077965632197}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7a212ff7799f58e4eba7838376d9e425, type: 3}
