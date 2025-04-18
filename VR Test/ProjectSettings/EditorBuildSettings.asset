@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Chapter09/Scenes/Scene09-05-ShooterballGame.unity
+    guid: 671bba558cc072449b9b9ce287603b72
+  - enabled: 1
     path: Assets/Scenes/Multiplayer/DemoGrassFlowers.unity
     guid: 1532ea6c8f8be8e47bce76bef8abc06b
   - enabled: 1
